@@ -198,9 +198,9 @@ if __name__ == "__main__":
 
     # update README.md file
     json_file = "cv-arxiv-daily.json"
-#     if ~os.path.exists(json_file):
-#         with open(json_file,'w')as a:
-#             print("create " + json_file)
+    if ~os.path.exists(json_file):
+        with open(json_file,'w')as a:
+            print("create " + json_file)
 
     # update json data
     update_json_file(json_file,data_collector)
