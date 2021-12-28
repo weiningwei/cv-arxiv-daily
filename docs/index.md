@@ -19,6 +19,36 @@ layout: default
 |**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan et.al.|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|**[link](https://github.com/zhanxinrui/hdn)**|
 |**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|**[link](https://github.com/michealcarac/VSLAM-Mapping)**|
 
+## VIO
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-16**|**Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**|Lintong Zhang et.al.|[2112.08854v1](http://arxiv.org/abs/2112.08854v1)|null|
+|**2021-12-10**|**Sparse Depth Completion with Semantic Mesh Deformation Optimization**|Bing Zhou et.al.|[2112.05498v1](http://arxiv.org/abs/2112.05498v1)|null|
+|**2021-11-30**|**WALK-VIO: Walking-motion-Adaptive Leg Kinematic Constraint Visual-Inertial Odometry for Quadruped Robots**|Hyunjun Lim et.al.|[2111.15164v1](http://arxiv.org/abs/2111.15164v1)|null|
+|**2021-11-01**|**MetroLoc: Metro Vehicle Mapping and Localization with LiDAR-Camera-Inertial Integration**|Yusheng Wang et.al.|[2111.00762v1](http://arxiv.org/abs/2111.00762v1)|null|
+|**2021-10-30**|**Multi-User Augmented Reality with Infrastructure-free Collaborative Localization**|John Miller et.al.|[2111.00174v1](http://arxiv.org/abs/2111.00174v1)|null|
+|**2021-10-20**|**DVIO: Depth aided visual inertial odometry for RGBD sensors**|Abhishek Tyagi et.al.|[2110.10805v1](http://arxiv.org/abs/2110.10805v1)|null|
+|**2021-10-14**|**DynoLoc: Infrastructure-free RF Tracking in Dynamic Indoor Environments**|Md. Shaifur Rahman et.al.|[2110.07365v1](http://arxiv.org/abs/2110.07365v1)|null|
+|**2021-10-05**|**Learned Uncertainty Calibration for Visual Inertial Localization**|Stephanie Tsuei et.al.|[2110.02136v1](http://arxiv.org/abs/2110.02136v1)|null|
+|**2021-09-25**|**Fully Differentiable and Interpretable Model for VIO with 4 Trainable Parameters**|Zexi Chen et.al.|[2109.12292v1](http://arxiv.org/abs/2109.12292v1)|**[link](https://github.com/jessychen1016/bevo_pytorch)**|
+|**2021-09-24**|**Toward Efficient and Robust Multiple Camera Visual-inertial Odometry**|Yao He et.al.|[2109.12030v1](http://arxiv.org/abs/2109.12030v1)|null|
+
+## VO
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-26**|**AlertTrap: A study on object detection in remote insects trap monitoring system using on-the-edge deep learning platform**|An D. Le et.al.|[2112.13341v1](http://arxiv.org/abs/2112.13341v1)|null|
+|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
+|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
+|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
+|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
+|**2021-12-23**|**Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier**|Youngjo Lee et.al.|[2112.12402v1](http://arxiv.org/abs/2112.12402v1)|null|
+|**2021-12-21**|**Observation of the $B^0\rightarrow\overline{D}^{*0}K^{+}π^{-}$ and $B_s^0\rightarrow\overline{D}^{*0}K^{-}π^{+}$ decays**|LHCb collaboration et.al.|[2112.11428v1](http://arxiv.org/abs/2112.11428v1)|null|
+|**2021-12-21**|**Predicting Job Titles from Job Descriptions with Multi-label Text Classification**|Hieu Trung Tran et.al.|[2112.11052v1](http://arxiv.org/abs/2112.11052v1)|null|
+|**2021-12-21**|**Narrowband searches for continuous and long-duration transient gravitational waves from known pulsars in the LIGO-Virgo third observing run**|The LIGO Scientific Collaboration et.al.|[2112.10990v1](http://arxiv.org/abs/2112.10990v1)|null|
+|**2021-12-20**|**Constraints on the CKM angle $γ$ from $B^\pm\rightarrow Dh^\pm$ decays using $D\rightarrow h^\pm h^{\prime\mp}π^0$ final states**|LHCb collaboration et.al.|[2112.10617v1](http://arxiv.org/abs/2112.10617v1)|null|
+
 ## SFM
 
 | Publish Date | Title | Authors | PDF | Code |
