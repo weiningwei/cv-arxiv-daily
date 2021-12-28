@@ -179,7 +179,11 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
+    
     keywords["SLAM"]                = "SLAM"
+    keywords["VIO"]                = "\"VIO\"\"Visual-Inertial Odometry\"OR\"Visual
+Inertial Odometry\""
+    keywords["VO"]                = "\"VO\"OR\"Visual Odometry\""
     keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
     keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
