@@ -181,7 +181,7 @@ if __name__ == "__main__":
     keywords = dict()
     
     keywords["SLAM"]                = "SLAM"
-    keywords["VIO"]                = "\"VIO\"\"Visual-Inertial Odometry\"OR\"Visual
+    keywords["VIO"]                = "\"VIO\"OR\"Visual-Inertial Odometry\"OR\"Visual
 Inertial Odometry\""
     keywords["VO"]                = "\"VO\"OR\"Visual Odometry\""
     keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
