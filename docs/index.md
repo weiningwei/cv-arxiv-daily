@@ -38,6 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-30**|**Conformal Blocks and Bilocal Vertex Operator Transition Amplitudes**|Gideon Vos et.al.|[2112.15125v1](http://arxiv.org/abs/2112.15125v1)|null|
 |**2021-12-29**|**The Levy Flight of Cities: Analyzing Social-Economical Trajectories with Auto-Embedding**|Linfang Tian et.al.|[2112.14594v1](http://arxiv.org/abs/2112.14594v1)|null|
 |**2021-12-28**|**Siamese Network with Interactive Transformer for Video Object Segmentation**|Meng Lan et.al.|[2112.13983v1](http://arxiv.org/abs/2112.13983v1)|null|
 |**2021-12-26**|**AlertTrap: A study on object detection in remote insects trap monitoring system using on-the-edge deep learning platform**|An D. Le et.al.|[2112.13341v1](http://arxiv.org/abs/2112.13341v1)|null|
@@ -47,22 +48,6 @@ layout: default
 |**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
 |**2021-12-23**|**Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier**|Youngjo Lee et.al.|[2112.12402v1](http://arxiv.org/abs/2112.12402v1)|null|
 |**2021-12-21**|**Observation of the $B^0\rightarrow\overline{D}^{*0}K^{+}π^{-}$ and $B_s^0\rightarrow\overline{D}^{*0}K^{-}π^{+}$ decays**|LHCb collaboration et.al.|[2112.11428v1](http://arxiv.org/abs/2112.11428v1)|null|
-|**2021-12-21**|**Predicting Job Titles from Job Descriptions with Multi-label Text Classification**|Hieu Trung Tran et.al.|[2112.11052v1](http://arxiv.org/abs/2112.11052v1)|null|
-
-## SFM
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
-|**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
-|**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
-|**2021-12-09**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund et.al.|[2112.05074v1](http://arxiv.org/abs/2112.05074v1)|null|
-|**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
-|**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
-|**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann et.al.|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
-|**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
-|**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik et.al.|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
-|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 
 ## Visual Localization
 
@@ -93,4 +78,19 @@ layout: default
 |**2021-12-13**|**DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points**|Zhengfei Kuang et.al.|[2112.06910v1](http://arxiv.org/abs/2112.06910v1)|null|
 |**2021-12-12**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu et.al.|[2112.06183v1](http://arxiv.org/abs/2112.06183v1)|null|
 |**2021-12-09**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik et.al.|[2112.04910v2](http://arxiv.org/abs/2112.04910v2)|null|
+
+## SFM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
+|**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
+|**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
+|**2021-12-09**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund et.al.|[2112.05074v1](http://arxiv.org/abs/2112.05074v1)|null|
+|**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
+|**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
+|**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann et.al.|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
+|**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
+|**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik et.al.|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
+|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 
