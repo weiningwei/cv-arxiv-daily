@@ -183,9 +183,9 @@ if __name__ == "__main__":
     keywords["SLAM"]                = "SLAM"
     keywords["VIO"]                = "\"VIO\"OR\"Visual-Inertial Odometry\"OR\"Visual Inertial Odometry\""
     keywords["VO"]                = "\"VO\"OR\"Visual Odometry\""
-    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
     keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
+    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
     # keywords["Image Matching"]      = "\"Image Matching\""
 
     for topic,keyword in keywords.items():
