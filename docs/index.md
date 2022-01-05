@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.04
+## Updated on 2022.01.05
 
 ## SLAM
 
@@ -39,7 +39,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-12-29**|**Feature matching as improved transfer learning technique for wearable EEG**|Elisabeth R. M. Heremans et.al.|[2201.00644v1](http://arxiv.org/abs/2201.00644v1)|null|
-|**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu et.al.|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/ReferFormer)**|
+|**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu et.al.|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|null|
 |**2021-12-30**|**Conformal Blocks and Bilocal Vertex Operator Transition Amplitudes**|Gideon Vos et.al.|[2112.15125v1](http://arxiv.org/abs/2112.15125v1)|null|
 |**2021-12-29**|**The Levy Flight of Cities: Analyzing Social-Economical Trajectories with Auto-Embedding**|Linfang Tian et.al.|[2112.14594v1](http://arxiv.org/abs/2112.14594v1)|null|
 |**2021-12-28**|**Siamese Network with Interactive Transformer for Video Object Segmentation**|Meng Lan et.al.|[2112.13983v1](http://arxiv.org/abs/2112.13983v1)|null|
