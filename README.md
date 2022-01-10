@@ -34,6 +34,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-02**|**Fractional calculus modeling of cell viscoelasticity quantifies drug response and maturation more robustly than integer order models**|Anh Vo et.al.|[2201.02589v1](http://arxiv.org/abs/2201.02589v1)|null|
+|**2022-01-07**|**A Review of Deep Learning Techniques for Markerless Human Motion on Synthetic Datasets**|Doan Duy Vo et.al.|[2201.02503v1](http://arxiv.org/abs/2201.02503v1)|**[link](https://github.com/doanduyvo/deeplab_human)**|
 |**2022-01-05**|**The Perkins INfrared Exosatellite Survey (PINES) I. Survey Overview, Reduction Pipeline, and Early Results**|Patrick Tamburo et.al.|[2201.01794v1](http://arxiv.org/abs/2201.01794v1)|null|
 |**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
 |**2022-01-05**|**The oscillating random walk on $\mathbb{Z}$**|D Vo et.al.|[2201.01515v1](http://arxiv.org/abs/2201.01515v1)|null|
@@ -42,8 +44,6 @@
 |**2021-12-30**|**Conformal Blocks and Bilocal Vertex Operator Transition Amplitudes**|Gideon Vos et.al.|[2112.15125v1](http://arxiv.org/abs/2112.15125v1)|null|
 |**2021-12-29**|**The Levy Flight of Cities: Analyzing Social-Economical Trajectories with Auto-Embedding**|Linfang Tian et.al.|[2112.14594v1](http://arxiv.org/abs/2112.14594v1)|null|
 |**2021-12-28**|**Siamese Network with Interactive Transformer for Video Object Segmentation**|Meng Lan et.al.|[2112.13983v1](http://arxiv.org/abs/2112.13983v1)|null|
-|**2021-12-26**|**AlertTrap: A study on object detection in remote insects trap monitoring system using on-the-edge deep learning platform**|An D. Le et.al.|[2112.13341v1](http://arxiv.org/abs/2112.13341v1)|null|
-|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
 
 ## Visual Localization
 
@@ -64,6 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel et.al.|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
 |**2021-12-23**|**Data-efficient learning for 3D mirror symmetry detection**|Yancong Lin et.al.|[2112.12579v1](http://arxiv.org/abs/2112.12579v1)|null|
 |**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer et.al.|[2112.12193v1](http://arxiv.org/abs/2112.12193v1)|null|
@@ -73,12 +74,12 @@
 |**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|null|
 |**2021-12-13**|**DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points**|Zhengfei Kuang et.al.|[2112.06910v1](http://arxiv.org/abs/2112.06910v1)|null|
 |**2021-12-12**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu et.al.|[2112.06183v1](http://arxiv.org/abs/2112.06183v1)|null|
-|**2021-12-09**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik et.al.|[2112.04910v2](http://arxiv.org/abs/2112.04910v2)|null|
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
 |**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
@@ -88,5 +89,4 @@
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann et.al.|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
 |**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik et.al.|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
-|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 
