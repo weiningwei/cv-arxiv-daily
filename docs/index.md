@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|null|
+|**2022-01-10**|**Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**|M. Usman Maqbool Bhutta et.al.|[2201.03212v1](http://arxiv.org/abs/2201.03212v1)|null|
 |**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen et.al.|[2201.00959v1](http://arxiv.org/abs/2201.00959v1)|null|
 |**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech et.al.|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
 |**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|**[link](https://github.com/SJTU-ViSYS/M2DGR)**|
@@ -16,8 +18,6 @@ layout: default
 |**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
 |**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
 |**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu et.al.|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
-|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|**[link](https://github.com/eduardohenriquearnold/fastreg)**|
-|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
 
 ## VIO
 
@@ -38,16 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-10**|**Observation of the decay $ Λ_b^0\rightarrow Λ_c^+τ^-\overlineν_τ$**|LHCb collaboration et.al.|[2201.03497v1](http://arxiv.org/abs/2201.03497v1)|null|
+|**2022-01-10**|**FAIR high level data for Cherenkov astronomy**|Mathieu Servillat et.al.|[2201.03247v1](http://arxiv.org/abs/2201.03247v1)|null|
 |**2022-01-02**|**Fractional calculus modeling of cell viscoelasticity quantifies drug response and maturation more robustly than integer order models**|Anh Vo et.al.|[2201.02589v1](http://arxiv.org/abs/2201.02589v1)|null|
 |**2022-01-07**|**A Review of Deep Learning Techniques for Markerless Human Motion on Synthetic Datasets**|Doan Duy Vo et.al.|[2201.02503v1](http://arxiv.org/abs/2201.02503v1)|**[link](https://github.com/doanduyvo/deeplab_human)**|
 |**2022-01-05**|**The Perkins INfrared Exosatellite Survey (PINES) I. Survey Overview, Reduction Pipeline, and Early Results**|Patrick Tamburo et.al.|[2201.01794v1](http://arxiv.org/abs/2201.01794v1)|null|
 |**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
 |**2022-01-05**|**The oscillating random walk on $\mathbb{Z}$**|D Vo et.al.|[2201.01515v1](http://arxiv.org/abs/2201.01515v1)|null|
-|**2021-12-29**|**Feature matching as improved transfer learning technique for wearable EEG**|Elisabeth R. M. Heremans et.al.|[2201.00644v1](http://arxiv.org/abs/2201.00644v1)|null|
 |**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu et.al.|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/referformer)**|
 |**2021-12-30**|**Conformal Blocks and Bilocal Vertex Operator Transition Amplitudes**|Gideon Vos et.al.|[2112.15125v1](http://arxiv.org/abs/2112.15125v1)|null|
 |**2021-12-29**|**The Levy Flight of Cities: Analyzing Social-Economical Trajectories with Auto-Embedding**|Linfang Tian et.al.|[2112.14594v1](http://arxiv.org/abs/2112.14594v1)|null|
-|**2021-12-28**|**Siamese Network with Interactive Transformer for Video Object Segmentation**|Meng Lan et.al.|[2112.13983v1](http://arxiv.org/abs/2112.13983v1)|null|
 
 ## Visual Localization
 
@@ -68,6 +68,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-10**|**TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**|Jinnavat Sanalohit et.al.|[2201.03170v1](http://arxiv.org/abs/2201.03170v1)|null|
 |**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel et.al.|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
 |**2021-12-23**|**Data-efficient learning for 3D mirror symmetry detection**|Yancong Lin et.al.|[2112.12579v1](http://arxiv.org/abs/2112.12579v1)|null|
@@ -77,12 +78,12 @@ layout: default
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
 |**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|null|
 |**2021-12-13**|**DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points**|Zhengfei Kuang et.al.|[2112.06910v1](http://arxiv.org/abs/2112.06910v1)|null|
-|**2021-12-12**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu et.al.|[2112.06183v1](http://arxiv.org/abs/2112.06183v1)|null|
 
 ## SFM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|null|
 |**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
@@ -92,5 +93,4 @@ layout: default
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann et.al.|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
 |**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
-|**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik et.al.|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 
