@@ -38,7 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-10**|**Observation of the decay $ Λ_b^0\rightarrow Λ_c^+τ^-\overlineν_τ$**|LHCb collaboration et.al.|[2201.03497v1](http://arxiv.org/abs/2201.03497v1)|null|
+|**2022-01-10**|**Observation of the decay $ Λ_b^0\rightarrow Λ_c^+τ^-\overlineν_τ$**|LHCb collaboration et.al.|[2201.03497v2](http://arxiv.org/abs/2201.03497v2)|null|
 |**2022-01-10**|**FAIR high level data for Cherenkov astronomy**|Mathieu Servillat et.al.|[2201.03247v1](http://arxiv.org/abs/2201.03247v1)|null|
 |**2022-01-02**|**Fractional calculus modeling of cell viscoelasticity quantifies drug response and maturation more robustly than integer order models**|Anh Vo et.al.|[2201.02589v1](http://arxiv.org/abs/2201.02589v1)|null|
 |**2022-01-07**|**A Review of Deep Learning Techniques for Markerless Human Motion on Synthetic Datasets**|Doan Duy Vo et.al.|[2201.02503v1](http://arxiv.org/abs/2201.02503v1)|**[link](https://github.com/doanduyvo/deeplab_human)**|
