@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
 |**2021-12-16**|**Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**|Lintong Zhang et.al.|[2112.08854v1](http://arxiv.org/abs/2112.08854v1)|null|
 |**2021-12-10**|**Sparse Depth Completion with Semantic Mesh Deformation Optimization**|Bing Zhou et.al.|[2112.05498v1](http://arxiv.org/abs/2112.05498v1)|null|
@@ -32,12 +33,12 @@ layout: default
 |**2021-10-20**|**DVIO: Depth aided visual inertial odometry for RGBD sensors**|Abhishek Tyagi et.al.|[2110.10805v1](http://arxiv.org/abs/2110.10805v1)|null|
 |**2021-10-14**|**DynoLoc: Infrastructure-free RF Tracking in Dynamic Indoor Environments**|Md. Shaifur Rahman et.al.|[2110.07365v1](http://arxiv.org/abs/2110.07365v1)|null|
 |**2021-10-05**|**Learned Uncertainty Calibration for Visual Inertial Localization**|Stephanie Tsuei et.al.|[2110.02136v1](http://arxiv.org/abs/2110.02136v1)|null|
-|**2021-09-25**|**Fully Differentiable and Interpretable Model for VIO with 4 Trainable Parameters**|Zexi Chen et.al.|[2109.12292v1](http://arxiv.org/abs/2109.12292v1)|**[link](https://github.com/jessychen1016/bevo_pytorch)**|
 
 ## VO
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-12**|**Let the Great World Spin: Revealing the Stormy, Turbulent Nature of Young Giant Exoplanet Analogs with the Spitzer Space Telescope**|Johanna M. Vos et.al.|[2201.04711v1](http://arxiv.org/abs/2201.04711v1)|null|
 |**2022-01-10**|**Observation of the decay $ Λ_b^0\rightarrow Λ_c^+τ^-\overlineν_τ$**|LHCb collaboration et.al.|[2201.03497v2](http://arxiv.org/abs/2201.03497v2)|null|
 |**2022-01-10**|**FAIR high level data for Cherenkov astronomy**|Mathieu Servillat et.al.|[2201.03247v1](http://arxiv.org/abs/2201.03247v1)|null|
 |**2022-01-02**|**Fractional calculus modeling of cell viscoelasticity quantifies drug response and maturation more robustly than integer order models**|Anh Vo et.al.|[2201.02589v1](http://arxiv.org/abs/2201.02589v1)|null|
@@ -47,7 +48,6 @@ layout: default
 |**2022-01-05**|**The oscillating random walk on $\mathbb{Z}$**|D Vo et.al.|[2201.01515v1](http://arxiv.org/abs/2201.01515v1)|null|
 |**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu et.al.|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/referformer)**|
 |**2021-12-30**|**Conformal Blocks and Bilocal Vertex Operator Transition Amplitudes**|Gideon Vos et.al.|[2112.15125v1](http://arxiv.org/abs/2112.15125v1)|null|
-|**2021-12-29**|**The Levy Flight of Cities: Analyzing Social-Economical Trajectories with Auto-Embedding**|Linfang Tian et.al.|[2112.14594v1](http://arxiv.org/abs/2112.14594v1)|null|
 
 ## Visual Localization
 
@@ -83,6 +83,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-13**|**Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**|Yunpeng Shi et.al.|[2201.04797v1](http://arxiv.org/abs/2201.04797v1)|**[link](https://github.com/yunpeng-shi/fcc)**|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
 |**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
@@ -92,5 +93,4 @@ layout: default
 |**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann et.al.|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
-|**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
 
