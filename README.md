@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli et.al.|[2201.03814v1](http://arxiv.org/abs/2201.03814v1)|null|
 |**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
@@ -13,12 +14,12 @@
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|**[link](https://github.com/url-kaist/uv-slam)**|
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang et.al.|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
 |**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
-|**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
 
 ## VIO
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
 |**2021-12-16**|**Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**|Lintong Zhang et.al.|[2112.08854v1](http://arxiv.org/abs/2112.08854v1)|null|
@@ -28,7 +29,6 @@
 |**2021-10-30**|**Multi-User Augmented Reality with Infrastructure-free Collaborative Localization**|John Miller et.al.|[2111.00174v1](http://arxiv.org/abs/2111.00174v1)|null|
 |**2021-10-20**|**DVIO: Depth aided visual inertial odometry for RGBD sensors**|Abhishek Tyagi et.al.|[2110.10805v1](http://arxiv.org/abs/2110.10805v1)|null|
 |**2021-10-14**|**DynoLoc: Infrastructure-free RF Tracking in Dynamic Indoor Environments**|Md. Shaifur Rahman et.al.|[2110.07365v1](http://arxiv.org/abs/2110.07365v1)|null|
-|**2021-10-05**|**Learned Uncertainty Calibration for Visual Inertial Localization**|Stephanie Tsuei et.al.|[2110.02136v1](http://arxiv.org/abs/2110.02136v1)|null|
 
 ## VO
 
@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
 |**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang et.al.|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
@@ -58,7 +59,6 @@
 |**2021-09-30**|**Forming a sparse representation for visual place recognition using a neurorobotic approach**|Sylvain Colomer et.al.|[2109.14916v1](http://arxiv.org/abs/2109.14916v1)|null|
 |**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang et.al.|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
 |**2021-09-20**|**Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v1](http://arxiv.org/abs/2109.09884v1)|null|
-|**2021-09-15**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez et.al.|[2109.07339v1](http://arxiv.org/abs/2109.07339v1)|null|
 
 ## Keypoint Detection
 
