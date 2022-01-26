@@ -38,6 +38,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|null|
+|**2022-01-25**|**Search for the decay $B^0\toφμ^+μ^-$**|LHCb collaboration et.al.|[2201.10167v1](http://arxiv.org/abs/2201.10167v1)|null|
+|**2022-01-24**|**A massive AGB donor in Scutum X-1: Identification of the first Mira variable in an X-ray binary**|Kishalay De et.al.|[2201.09906v1](http://arxiv.org/abs/2201.09906v1)|null|
 |**2022-01-18**|**Zoology of spin and orbital fluctuations in ultrathin oxide films**|Matthias Pickem et.al.|[2201.07058v1](http://arxiv.org/abs/2201.07058v1)|null|
 |**2022-01-17**|**Data Harmonisation for Information Fusion in Digital Healthcare: A State-of-the-Art Systematic Review, Meta-Analysis and Future Research Directions**|Yang Nan et.al.|[2201.06505v1](http://arxiv.org/abs/2201.06505v1)|null|
 |**2022-01-12**|**Let the Great World Spin: Revealing the Stormy, Turbulent Nature of Young Giant Exoplanet Analogs with the Spitzer Space Telescope**|Johanna M. Vos et.al.|[2201.04711v1](http://arxiv.org/abs/2201.04711v1)|null|
@@ -45,9 +48,6 @@ layout: default
 |**2022-01-10**|**FAIR high level data for Cherenkov astronomy**|Mathieu Servillat et.al.|[2201.03247v1](http://arxiv.org/abs/2201.03247v1)|null|
 |**2022-01-07**|**A Review of Deep Learning Techniques for Markerless Human Motion on Synthetic Datasets**|Doan Duy Vo et.al.|[2201.02503v1](http://arxiv.org/abs/2201.02503v1)|**[link](https://github.com/doanduyvo/deeplab_human)**|
 |**2022-01-05**|**The Perkins INfrared Exosatellite Survey (PINES) I. Survey Overview, Reduction Pipeline, and Early Results**|Patrick Tamburo et.al.|[2201.01794v1](http://arxiv.org/abs/2201.01794v1)|null|
-|**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
-|**2022-01-05**|**The oscillating random walk on $\mathbb{Z}$**|D Vo et.al.|[2201.01515v1](http://arxiv.org/abs/2201.01515v1)|null|
-|**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu et.al.|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/referformer)**|
 
 ## Visual Localization
 
