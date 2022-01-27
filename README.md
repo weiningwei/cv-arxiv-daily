@@ -1,4 +1,4 @@
-## Updated on 2022.01.26
+## Updated on 2022.01.27
 
 ## SLAM
 
@@ -34,7 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|null|
+|**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|**[link](https://github.com/paulorocosta/ai-for-tsp-competition)**|
 |**2022-01-25**|**Search for the decay $B^0\toφμ^+μ^-$**|LHCb collaboration et.al.|[2201.10167v1](http://arxiv.org/abs/2201.10167v1)|null|
 |**2022-01-24**|**A massive AGB donor in Scutum X-1: Identification of the first Mira variable in an X-ray binary**|Kishalay De et.al.|[2201.09906v1](http://arxiv.org/abs/2201.09906v1)|null|
 |**2022-01-18**|**Zoology of spin and orbital fluctuations in ultrathin oxide films**|Matthias Pickem et.al.|[2201.07058v1](http://arxiv.org/abs/2201.07058v1)|null|
