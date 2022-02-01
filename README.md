@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu et.al.|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
 |**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan et.al.|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v1](http://arxiv.org/abs/2201.09862v1)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
@@ -13,7 +14,6 @@
 |**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
 |**2022-01-10**|**Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**|M. Usman Maqbool Bhutta et.al.|[2201.03212v1](http://arxiv.org/abs/2201.03212v1)|null|
-|**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen et.al.|[2201.00959v1](http://arxiv.org/abs/2201.00959v1)|null|
 
 ## VIO
 
@@ -34,6 +34,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**Tuning spin-orbit torques across the phase transition in VO$_2$/NiFe heterostructure**|Jun-young Kim et.al.|[2201.12984v1](http://arxiv.org/abs/2201.12984v1)|null|
+|**2022-01-30**|**Port Reconfigurable Phase-Change Optical Resonator**|Haiyu Meng et.al.|[2201.12800v1](http://arxiv.org/abs/2201.12800v1)|null|
 |**2022-01-28**|**Oxygen Deficient α-MoO3 with Promoted Adsorption and State-Quenching of H2O for Gas Sensor: A DFT Study**|Changmeng Huan et.al.|[2201.11900v1](http://arxiv.org/abs/2201.11900v1)|null|
 |**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|**[link](https://github.com/paulorocosta/ai-for-tsp-competition)**|
 |**2022-01-25**|**Search for the decay $B^0\toφμ^+μ^-$**|LHCb collaboration et.al.|[2201.10167v1](http://arxiv.org/abs/2201.10167v1)|null|
@@ -42,13 +44,12 @@
 |**2022-01-17**|**Data Harmonisation for Information Fusion in Digital Healthcare: A State-of-the-Art Systematic Review, Meta-Analysis and Future Research Directions**|Yang Nan et.al.|[2201.06505v1](http://arxiv.org/abs/2201.06505v1)|null|
 |**2022-01-12**|**Let the Great World Spin: Revealing the Stormy, Turbulent Nature of Young Giant Exoplanet Analogs with the Spitzer Space Telescope**|Johanna M. Vos et.al.|[2201.04711v1](http://arxiv.org/abs/2201.04711v1)|null|
 |**2022-01-10**|**Observation of the decay $ Λ_b^0\rightarrow Λ_c^+τ^-\overlineν_τ$**|LHCb collaboration et.al.|[2201.03497v2](http://arxiv.org/abs/2201.03497v2)|null|
-|**2022-01-10**|**FAIR high level data for Cherenkov astronomy**|Mathieu Servillat et.al.|[2201.03247v1](http://arxiv.org/abs/2201.03247v1)|null|
-|**2022-01-07**|**A Review of Deep Learning Techniques for Markerless Human Motion on Synthetic Datasets**|Doan Duy Vo et.al.|[2201.02503v1](http://arxiv.org/abs/2201.02503v1)|**[link](https://github.com/doanduyvo/deeplab_human)**|
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte et.al.|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
 |**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu et.al.|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
@@ -58,7 +59,6 @@
 |**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162v1](http://arxiv.org/abs/2110.04162v1)|null|
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari et.al.|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
 |**2021-09-30**|**Forming a sparse representation for visual place recognition using a neurorobotic approach**|Sylvain Colomer et.al.|[2109.14916v1](http://arxiv.org/abs/2109.14916v1)|null|
-|**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang et.al.|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
 
 ## Keypoint Detection
 
