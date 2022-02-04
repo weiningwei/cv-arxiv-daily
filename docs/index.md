@@ -38,7 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-02**|**VOS:Learning What You Don't Know by Virtual Outlier Synthesis**|Xuefeng Du et.al.|[2202.01197v1](http://arxiv.org/abs/2202.01197v1)|**[link](https://github.com/deeplearning-wisc/vos)**|
+|**2022-02-02**|**VOS: Learning What You Don't Know by Virtual Outlier Synthesis**|Xuefeng Du et.al.|[2202.01197v2](http://arxiv.org/abs/2202.01197v2)|**[link](https://github.com/deeplearning-wisc/vos)**|
 |**2022-02-01**|**Rapid discovery of cathodes, ionic conductors and solid-state electrolytes through topological migration analysis**|Jimmy-Xuan Shen et.al.|[2202.00222v1](http://arxiv.org/abs/2202.00222v1)|null|
 |**2022-01-31**|**Query Efficient Decision Based Sparse Attacks Against Black-Box Deep Learning Models**|Viet Quoc Vo et.al.|[2202.00091v1](http://arxiv.org/abs/2202.00091v1)|null|
 |**2022-01-31**|**Tuning spin-orbit torques across the phase transition in VO$_2$/NiFe heterostructure**|Jun-young Kim et.al.|[2201.12984v1](http://arxiv.org/abs/2201.12984v1)|null|
@@ -68,7 +68,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v1](http://arxiv.org/abs/2202.00448v1)|null|
+|**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
 |**2022-01-16**|**Cross-Centroid Ripple Pattern for Facial Expression Recognition**|Monu Verma et.al.|[2201.05958v1](http://arxiv.org/abs/2201.05958v1)|null|
 |**2022-01-10**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v2](http://arxiv.org/abs/2201.03556v2)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
 |**2022-01-10**|**TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**|Jinnavat Sanalohit et.al.|[2201.03170v1](http://arxiv.org/abs/2201.03170v1)|null|
