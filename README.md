@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**|Oussama Saoudi et.al.|[2202.03148v1](http://arxiv.org/abs/2202.03148v1)|null|
+|**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi et.al.|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 |**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu et.al.|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
 |**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
 |**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu et.al.|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
@@ -12,8 +14,6 @@
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
-|**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli et.al.|[2201.03814v2](http://arxiv.org/abs/2201.03814v2)|null|
-|**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
 
 ## VIO
 
@@ -34,6 +34,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-05**|**Volumetric and structural connectivity abnormalities co-localise in TLE**|Jonathan J. Horsley et.al.|[2202.02590v1](http://arxiv.org/abs/2202.02590v1)|null|
+|**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
+|**2022-02-04**|**Bayesian inference of three-dimensional gas maps: II. Galactic HI**|Philipp Mertsch et.al.|[2202.02341v1](http://arxiv.org/abs/2202.02341v1)|null|
 |**2022-02-03**|**Viscous droplet impingement on soft substrates**|Marcus Lin et.al.|[2202.01386v1](http://arxiv.org/abs/2202.01386v1)|null|
 |**2022-02-02**|**VOS: Learning What You Don't Know by Virtual Outlier Synthesis**|Xuefeng Du et.al.|[2202.01197v3](http://arxiv.org/abs/2202.01197v3)|**[link](https://github.com/deeplearning-wisc/vos)**|
 |**2022-02-01**|**Rapid discovery of cathodes, ionic conductors and solid-state electrolytes through topological migration analysis**|Jimmy-Xuan Shen et.al.|[2202.00222v1](http://arxiv.org/abs/2202.00222v1)|null|
@@ -41,9 +44,6 @@
 |**2022-01-31**|**Tuning spin-orbit torques across the phase transition in VO$_2$/NiFe heterostructure**|Jun-young Kim et.al.|[2201.12984v1](http://arxiv.org/abs/2201.12984v1)|null|
 |**2022-01-30**|**Port Reconfigurable Phase-Change Optical Resonator**|Haiyu Meng et.al.|[2201.12800v1](http://arxiv.org/abs/2201.12800v1)|null|
 |**2022-01-28**|**Oxygen Deficient α-MoO3 with Promoted Adsorption and State-Quenching of H2O for Gas Sensor: A DFT Study**|Changmeng Huan et.al.|[2201.11900v1](http://arxiv.org/abs/2201.11900v1)|null|
-|**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|**[link](https://github.com/paulorocosta/ai-for-tsp-competition)**|
-|**2022-01-25**|**Search for the decay $B^0\toφμ^+μ^-$**|LHCb collaboration et.al.|[2201.10167v1](http://arxiv.org/abs/2201.10167v1)|null|
-|**2022-01-24**|**A massive AGB donor in Scutum X-1: Identification of the first Mira variable in an X-ray binary**|Kishalay De et.al.|[2201.09906v1](http://arxiv.org/abs/2201.09906v1)|null|
 
 ## Visual Localization
 
