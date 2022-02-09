@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei et.al.|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
 |**2022-01-25**|**Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**|Oussama Saoudi et.al.|[2202.03148v1](http://arxiv.org/abs/2202.03148v1)|null|
 |**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi et.al.|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 |**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu et.al.|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
@@ -17,7 +18,6 @@ layout: default
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
-|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 
 ## VIO
 
@@ -38,6 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-08**|**Study of charmonium and charmonium-like contributions in $B^+ \rightarrow J/ψηK^+$ decays**|LHCb collaboration et.al.|[2202.04045v1](http://arxiv.org/abs/2202.04045v1)|null|
 |**2022-02-05**|**Volumetric and structural connectivity abnormalities co-localise in TLE**|Jonathan J. Horsley et.al.|[2202.02590v1](http://arxiv.org/abs/2202.02590v1)|null|
 |**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
 |**2022-02-04**|**Bayesian inference of three-dimensional gas maps: II. Galactic HI**|Philipp Mertsch et.al.|[2202.02341v1](http://arxiv.org/abs/2202.02341v1)|null|
@@ -47,7 +48,6 @@ layout: default
 |**2022-01-31**|**Query Efficient Decision Based Sparse Attacks Against Black-Box Deep Learning Models**|Viet Quoc Vo et.al.|[2202.00091v1](http://arxiv.org/abs/2202.00091v1)|null|
 |**2022-01-31**|**Tuning spin-orbit torques across the phase transition in VO$_2$/NiFe heterostructure**|Jun-young Kim et.al.|[2201.12984v1](http://arxiv.org/abs/2201.12984v1)|null|
 |**2022-01-30**|**Port Reconfigurable Phase-Change Optical Resonator**|Haiyu Meng et.al.|[2201.12800v1](http://arxiv.org/abs/2201.12800v1)|null|
-|**2022-01-28**|**Oxygen Deficient α-MoO3 with Promoted Adsorption and State-Quenching of H2O for Gas Sensor: A DFT Study**|Changmeng Huan et.al.|[2201.11900v1](http://arxiv.org/abs/2201.11900v1)|null|
 
 ## Visual Localization
 
