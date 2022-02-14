@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**Overhead Image Factors for Underwater Sonar-based SLAM**|John McConnell et.al.|[2202.05811v1](http://arxiv.org/abs/2202.05811v1)|null|
 |**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song et.al.|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei et.al.|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
 |**2022-01-25**|**Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**|Oussama Saoudi et.al.|[2202.03148v1](http://arxiv.org/abs/2202.03148v1)|null|
@@ -13,7 +14,6 @@
 |**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu et.al.|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
 |**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan et.al.|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
-|**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 
 ## VIO
 
@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**Observation of the doubly charmed baryon decay $\it{Ξ_{cc}^{++}\to Ξ_{c}^{'+}π^{+}}$**|LHCb collaboration et.al.|[2202.05648v1](http://arxiv.org/abs/2202.05648v1)|null|
 |**2022-02-10**|**Multiple exciton generation and giant external quantum efficiency in VO$_2$**|S. R. Sahu et.al.|[2202.04909v1](http://arxiv.org/abs/2202.04909v1)|null|
 |**2022-02-08**|**Study of charmonium and charmonium-like contributions in $B^+ \rightarrow J/ψηK^+$ decays**|LHCb collaboration et.al.|[2202.04045v1](http://arxiv.org/abs/2202.04045v1)|null|
 |**2022-02-05**|**Volumetric and structural connectivity abnormalities co-localise in TLE**|Jonathan J. Horsley et.al.|[2202.02590v1](http://arxiv.org/abs/2202.02590v1)|null|
@@ -43,7 +44,6 @@
 |**2022-02-02**|**VOS: Learning What You Don't Know by Virtual Outlier Synthesis**|Xuefeng Du et.al.|[2202.01197v3](http://arxiv.org/abs/2202.01197v3)|**[link](https://github.com/deeplearning-wisc/vos)**|
 |**2022-02-01**|**Rapid discovery of cathodes, ionic conductors and solid-state electrolytes through topological migration analysis**|Jimmy-Xuan Shen et.al.|[2202.00222v1](http://arxiv.org/abs/2202.00222v1)|null|
 |**2022-01-31**|**Query Efficient Decision Based Sparse Attacks Against Black-Box Deep Learning Models**|Viet Quoc Vo et.al.|[2202.00091v1](http://arxiv.org/abs/2202.00091v1)|null|
-|**2022-01-31**|**Tuning spin-orbit torques across the phase transition in VO$_2$/NiFe heterostructure**|Jun-young Kim et.al.|[2201.12984v1](http://arxiv.org/abs/2201.12984v1)|null|
 
 ## Visual Localization
 
