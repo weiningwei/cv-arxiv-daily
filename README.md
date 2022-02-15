@@ -1,4 +1,4 @@
-## Updated on 2022.02.14
+## Updated on 2022.02.15
 
 ## SLAM
 
@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**Exact Statistical Inference for Time Series Similarity using Dynamic Time Warping by Selective Inference**|Vo Nguyen Le Duy et.al.|[2202.06593v1](http://arxiv.org/abs/2202.06593v1)|null|
 |**2022-02-11**|**Observation of the doubly charmed baryon decay $\it{Ξ_{cc}^{++}\to Ξ_{c}^{'+}π^{+}}$**|LHCb collaboration et.al.|[2202.05648v1](http://arxiv.org/abs/2202.05648v1)|null|
 |**2022-02-10**|**Multiple exciton generation and giant external quantum efficiency in VO$_2$**|S. R. Sahu et.al.|[2202.04909v1](http://arxiv.org/abs/2202.04909v1)|null|
 |**2022-02-08**|**Study of charmonium and charmonium-like contributions in $B^+ \rightarrow J/ψηK^+$ decays**|LHCb collaboration et.al.|[2202.04045v1](http://arxiv.org/abs/2202.04045v1)|null|
@@ -43,7 +44,6 @@
 |**2022-02-03**|**Viscous droplet impingement on soft substrates**|Marcus Lin et.al.|[2202.01386v1](http://arxiv.org/abs/2202.01386v1)|null|
 |**2022-02-02**|**VOS: Learning What You Don't Know by Virtual Outlier Synthesis**|Xuefeng Du et.al.|[2202.01197v3](http://arxiv.org/abs/2202.01197v3)|**[link](https://github.com/deeplearning-wisc/vos)**|
 |**2022-02-01**|**Rapid discovery of cathodes, ionic conductors and solid-state electrolytes through topological migration analysis**|Jimmy-Xuan Shen et.al.|[2202.00222v1](http://arxiv.org/abs/2202.00222v1)|null|
-|**2022-01-31**|**Query Efficient Decision Based Sparse Attacks Against Black-Box Deep Learning Models**|Viet Quoc Vo et.al.|[2202.00091v1](http://arxiv.org/abs/2202.00091v1)|null|
 
 ## Visual Localization
 
