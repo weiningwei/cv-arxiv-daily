@@ -38,7 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-14**|**Box Supervised Video Segmentation Proposal Network**|Tanveer Hannan et.al.|[2202.07025v1](http://arxiv.org/abs/2202.07025v1)|**[link](https://github.com/tanveer81/boxvos)**|
+|**2022-02-14**|**Box Supervised Video Segmentation Proposal Network**|Tanveer Hannan et.al.|[2202.07025v2](http://arxiv.org/abs/2202.07025v2)|**[link](https://github.com/tanveer81/boxvos)**|
 |**2022-02-14**|**Exact Statistical Inference for Time Series Similarity using Dynamic Time Warping by Selective Inference**|Vo Nguyen Le Duy et.al.|[2202.06593v1](http://arxiv.org/abs/2202.06593v1)|null|
 |**2022-02-11**|**Observation of the doubly charmed baryon decay $\it{Ξ_{cc}^{++}\to Ξ_{c}^{'+}π^{+}}$**|LHCb collaboration et.al.|[2202.05648v1](http://arxiv.org/abs/2202.05648v1)|null|
 |**2022-02-10**|**Multiple exciton generation and giant external quantum efficiency in VO$_2$**|S. R. Sahu et.al.|[2202.04909v1](http://arxiv.org/abs/2202.04909v1)|null|
