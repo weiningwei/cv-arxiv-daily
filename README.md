@@ -4,7 +4,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-19**|**SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**|Xingtong Liu et.al.|[2202.09487v2](http://arxiv.org/abs/2202.09487v2)|**[link](https://github.com/lppllppl920/sage-slam)**|
 |**2022-02-18**|**OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**|Stefan Leutenegger et.al.|[2202.09199v1](http://arxiv.org/abs/2202.09199v1)|null|
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
 |**2022-02-18**|**An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems**|Qiang Liu et.al.|[2202.08952v1](http://arxiv.org/abs/2202.08952v1)|null|
@@ -14,6 +13,7 @@
 |**2022-02-11**|**Overhead Image Factors for Underwater Sonar-based SLAM**|John McConnell et.al.|[2202.05811v1](http://arxiv.org/abs/2202.05811v1)|null|
 |**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song et.al.|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei et.al.|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
+|**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi et.al.|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 
 ## VIO
 
@@ -34,8 +34,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-22**|**A Framework for Distributed Quantum Queries in the CONGEST Model**|Joran van Apeldoorn et.al.|[2202.10969v1](http://arxiv.org/abs/2202.10969v1)|null|
-|**2022-02-22**|**Convolutional Neural Network Modelling for MODIS Land Surface Temperature Super-Resolution**|Binh Minh Nguyen et.al.|[2202.10753v1](http://arxiv.org/abs/2202.10753v1)|null|
 |**2022-02-18**|**Autoencoding Low-Resolution MRI for Semantically Smooth Interpolation of Anisotropic MRI**|Jörg Sander et.al.|[2202.09258v1](http://arxiv.org/abs/2202.09258v1)|null|
 |**2022-02-18**|**Measurement of the charm mixing parameter $y_{CP} - y_{CP}^{Kπ}$ using two-body $D^0$ meson decays**|LHCb collaboration et.al.|[2202.09106v1](http://arxiv.org/abs/2202.09106v1)|null|
 |**2022-02-14**|**Box Supervised Video Segmentation Proposal Network**|Tanveer Hannan et.al.|[2202.07025v2](http://arxiv.org/abs/2202.07025v2)|**[link](https://github.com/tanveer81/boxvos)**|
@@ -44,6 +42,8 @@
 |**2022-02-10**|**Multiple exciton generation and giant external quantum efficiency in VO$_2$**|S. R. Sahu et.al.|[2202.04909v1](http://arxiv.org/abs/2202.04909v1)|null|
 |**2022-02-08**|**Study of charmonium and charmonium-like contributions in $B^+ \rightarrow J/ψηK^+$ decays**|LHCb collaboration et.al.|[2202.04045v1](http://arxiv.org/abs/2202.04045v1)|null|
 |**2022-02-05**|**Volumetric and structural connectivity abnormalities co-localise in TLE**|Jonathan J. Horsley et.al.|[2202.02590v1](http://arxiv.org/abs/2202.02590v1)|null|
+|**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
+|**2022-02-04**|**Bayesian inference of three-dimensional gas maps: II. Galactic HI**|Philipp Mertsch et.al.|[2202.02341v1](http://arxiv.org/abs/2202.02341v1)|null|
 
 ## Visual Localization
 
