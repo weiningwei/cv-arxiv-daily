@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
+|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
 |**2022-02-26**|**RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization**|Nikolaos Kourtzanidis et.al.|[2202.13221v1](http://arxiv.org/abs/2202.13221v1)|null|
 |**2022-02-25**|**Probabilistic Data Association for Semantic SLAM at Scale**|Elad Michael et.al.|[2202.12802v1](http://arxiv.org/abs/2202.12802v1)|null|
 |**2022-02-24**|**TwistSLAM: Constrained SLAM in Dynamic Environment**|Mathieu Gonzalez et.al.|[2202.12384v1](http://arxiv.org/abs/2202.12384v1)|null|
@@ -12,8 +14,6 @@
 |**2022-02-23**|**DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**|Xuebo Tian et.al.|[2202.11431v1](http://arxiv.org/abs/2202.11431v1)|null|
 |**2022-02-23**|**Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets**|Islam Ali et.al.|[2202.11312v1](http://arxiv.org/abs/2202.11312v1)|null|
 |**2022-02-19**|**SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**|Xingtong Liu et.al.|[2202.09487v2](http://arxiv.org/abs/2202.09487v2)|**[link](https://github.com/lppllppl920/sage-slam)**|
-|**2022-02-18**|**OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**|Stefan Leutenegger et.al.|[2202.09199v1](http://arxiv.org/abs/2202.09199v1)|null|
-|**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
 
 ## VIO
 
@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|**[link](https://github.com/flysoaryun/lf-vio)**|
 |**2022-02-22**|**A Framework for Distributed Quantum Queries in the CONGEST Model**|Joran van Apeldoorn et.al.|[2202.10969v1](http://arxiv.org/abs/2202.10969v1)|null|
 |**2022-02-22**|**Convolutional Neural Network Modelling for MODIS Land Surface Temperature Super-Resolution**|Binh Minh Nguyen et.al.|[2202.10753v1](http://arxiv.org/abs/2202.10753v1)|null|
@@ -43,12 +44,12 @@
 |**2022-02-14**|**Exact Statistical Inference for Time Series Similarity using Dynamic Time Warping by Selective Inference**|Vo Nguyen Le Duy et.al.|[2202.06593v1](http://arxiv.org/abs/2202.06593v1)|null|
 |**2022-02-11**|**Observation of the doubly charmed baryon decay $\it{Ξ_{cc}^{++}\to Ξ_{c}^{'+}π^{+}}$**|LHCb collaboration et.al.|[2202.05648v1](http://arxiv.org/abs/2202.05648v1)|null|
 |**2022-02-10**|**Multiple exciton generation and giant external quantum efficiency in VO$_2$**|S. R. Sahu et.al.|[2202.04909v1](http://arxiv.org/abs/2202.04909v1)|null|
-|**2022-02-08**|**Study of charmonium and charmonium-like contributions in $B^+ \rightarrow J/ψηK^+$ decays**|LHCb collaboration et.al.|[2202.04045v1](http://arxiv.org/abs/2202.04045v1)|null|
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-28**|**Deep Camera Pose Regression Using Pseudo-LiDAR**|Ali Raza et.al.|[2203.00080v1](http://arxiv.org/abs/2203.00080v1)|null|
 |**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran et.al.|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
 |**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi et.al.|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
 |**2022-02-04**|**CFP-SLAM: A Real-time Visual SLAM Based on Coarse-to-Fine Probability in Dynamic Environments**|Xinggang Hu et.al.|[2202.01938v2](http://arxiv.org/abs/2202.01938v2)|null|
@@ -58,7 +59,6 @@
 |**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu et.al.|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
-|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|**[link](https://github.com/topo-epfl/crossloc)**|
 
 ## Keypoint Detection
 
