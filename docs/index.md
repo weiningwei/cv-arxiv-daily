@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-03**|**STUN: Self-Teaching Uncertainty Estimation for Place Recognition**|Kaiwen Cai et.al.|[2203.01851v1](http://arxiv.org/abs/2203.01851v1)|**[link](https://github.com/ramdrop/stun)**|
-|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|null|
+|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
 |**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
 |**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
@@ -38,8 +38,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-04**|**MF-Hovernet: An Extension of Hovernet for Colon Nuclei Identification and Counting (CoNiC) Challenge**|Vi Thi-Tuong Vo et.al.|[2203.02161v1](http://arxiv.org/abs/2203.02161v1)|null|
 |**2022-03-03**|**First measurement of the $Z\rightarrow μ^+ μ^-$ angular coefficients in the forward region of $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2203.01602v1](http://arxiv.org/abs/2203.01602v1)|null|
-|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|null|
+|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2022-03-03**|**Self-Supervised Ego-Motion Estimation Based on Multi-Layer Fusion of RGB and Inferred Depth**|Zijie Jiang et.al.|[2203.01557v1](http://arxiv.org/abs/2203.01557v1)|null|
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
@@ -47,7 +48,6 @@ layout: default
 |**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|**[link](https://github.com/flysoaryun/lf-vio)**|
 |**2022-02-22**|**A Framework for Distributed Quantum Queries in the CONGEST Model**|Joran van Apeldoorn et.al.|[2202.10969v1](http://arxiv.org/abs/2202.10969v1)|null|
-|**2022-02-22**|**Convolutional Neural Network Modelling for MODIS Land Surface Temperature Super-Resolution**|Binh Minh Nguyen et.al.|[2202.10753v1](http://arxiv.org/abs/2202.10753v1)|null|
 
 ## Visual Localization
 
