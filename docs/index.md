@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
 |**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma et.al.|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|**[link](https://github.com/haomo-ai/OverlapTransformer)**|
 |**2022-03-06**|**Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**|Kazushi Aiba et.al.|[2203.02887v1](http://arxiv.org/abs/2203.02887v1)|null|
@@ -17,7 +18,6 @@ layout: default
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
 |**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
 |**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
-|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
 
 ## VIO
 
@@ -38,6 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**End-to-End Semi-Supervised Learning for Video Action Detection**|Akash Kumar et.al.|[2203.04251v1](http://arxiv.org/abs/2203.04251v1)|null|
 |**2022-03-07**|**A quantitative assessment of the VO line list: Inaccuracies hamper high-resolution VO detections in exoplanet atmospheres**|S. de Regt et.al.|[2203.03585v1](http://arxiv.org/abs/2203.03585v1)|null|
 |**2022-03-06**|**Blow-up versus global radial solution for free boundary system with nonlinear inhomogeneous gradient and source terms**|Quan Pham Hoang et.al.|[2203.02929v1](http://arxiv.org/abs/2203.02929v1)|null|
 |**2022-03-04**|**MF-Hovernet: An Extension of Hovernet for Colon Nuclei Identification and Counting (CoNiC) Challenge**|Vi Thi-Tuong Vo et.al.|[2203.02161v1](http://arxiv.org/abs/2203.02161v1)|null|
@@ -47,7 +48,6 @@ layout: default
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
-|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
 
 ## Visual Localization
 
