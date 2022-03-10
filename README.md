@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**Tune your Place Recognition: Self-Supervised Domain Calibration via Robust SLAM**|Pierre-Yves Lajoie et.al.|[2203.04446v1](http://arxiv.org/abs/2203.04446v1)|null|
+|**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|null|
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
 |**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma et.al.|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|**[link](https://github.com/haomo-ai/OverlapTransformer)**|
@@ -12,8 +14,6 @@
 |**2022-03-03**|**STUN: Self-Teaching Uncertainty Estimation for Place Recognition**|Kaiwen Cai et.al.|[2203.01851v1](http://arxiv.org/abs/2203.01851v1)|**[link](https://github.com/ramdrop/stun)**|
 |**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
-|**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
-|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
 
 ## VIO
 
@@ -34,6 +34,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**|Xiuyuan Li et.al.|[2203.04812v1](http://arxiv.org/abs/2203.04812v1)|null|
+|**2022-03-09**|**Multi-Objective Multi-Agent Planning for Discovering and Tracking Unknown and Varying Number of Mobile Objects**|Hoa Van Nguyen et.al.|[2203.04551v1](http://arxiv.org/abs/2203.04551v1)|null|
 |**2022-03-08**|**End-to-End Semi-Supervised Learning for Video Action Detection**|Akash Kumar et.al.|[2203.04251v1](http://arxiv.org/abs/2203.04251v1)|**[link](https://github.com/AKASH2907/End-to-End-Semi-Supervised-Learning-for-Video-Action-Detection)**|
 |**2022-03-07**|**A quantitative assessment of the VO line list: Inaccuracies hamper high-resolution VO detections in exoplanet atmospheres**|S. de Regt et.al.|[2203.03585v1](http://arxiv.org/abs/2203.03585v1)|null|
 |**2022-03-06**|**Blow-up versus global radial solution for free boundary system with nonlinear inhomogeneous gradient and source terms**|Quan Pham Hoang et.al.|[2203.02929v1](http://arxiv.org/abs/2203.02929v1)|null|
@@ -42,13 +44,12 @@
 |**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2022-03-03**|**Self-Supervised Ego-Motion Estimation Based on Multi-Layer Fusion of RGB and Inferred Depth**|Zijie Jiang et.al.|[2203.01557v1](http://arxiv.org/abs/2203.01557v1)|null|
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
-|**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
-|**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**|Matthieu Zins et.al.|[2203.04613v1](http://arxiv.org/abs/2203.04613v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-02-28**|**Deep Camera Pose Regression Using Pseudo-LiDAR**|Ali Raza et.al.|[2203.00080v1](http://arxiv.org/abs/2203.00080v1)|null|
 |**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran et.al.|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
@@ -58,7 +59,6 @@
 |**2022-02-02**|**Training Semantic Descriptors for Image-Based Localization**|Ibrahim Cinaroglu et.al.|[2202.01212v1](http://arxiv.org/abs/2202.01212v1)|null|
 |**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte et.al.|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
 |**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu et.al.|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
-|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 
 ## Keypoint Detection
 
