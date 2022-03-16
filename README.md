@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow et.al.|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
 |**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama et.al.|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
 |**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
 |**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
@@ -13,12 +14,12 @@
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|**[link](https://github.com/tiers/tiers-lidars-dataset)**|
 |**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma et.al.|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|**[link](https://github.com/haomo-ai/OverlapTransformer)**|
-|**2022-03-06**|**Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**|Kazushi Aiba et.al.|[2203.02887v1](http://arxiv.org/abs/2203.02887v1)|null|
 
 ## VIO
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
 |**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
 |**2022-03-05**|**Tightly Coupled Optimization-based GPS-Visual-Inertial Odometry with Online Calibration and Initialization**|Shihao Han et.al.|[2203.02677v1](http://arxiv.org/abs/2203.02677v1)|null|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
@@ -28,12 +29,13 @@
 |**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
 |**2021-12-16**|**Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**|Lintong Zhang et.al.|[2112.08854v1](http://arxiv.org/abs/2112.08854v1)|null|
-|**2021-12-10**|**Sparse Depth Completion with Semantic Mesh Deformation Optimization**|Bing Zhou et.al.|[2112.05498v1](http://arxiv.org/abs/2112.05498v1)|null|
 
 ## VO
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**The International Linear Collider: Report to Snowmass 2021**|Alexander Aryshev et.al.|[2203.07622v1](http://arxiv.org/abs/2203.07622v1)|null|
+|**2022-03-14**|**Jets and Jet Substructure at Future Colliders**|Ben Nachman et.al.|[2203.07462v1](http://arxiv.org/abs/2203.07462v1)|null|
 |**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
 |**2022-03-12**|**The Future Circular Collider: a Summary for the US 2021 Snowmass Process**|G. Bernardi et.al.|[2203.06520v1](http://arxiv.org/abs/2203.06520v1)|null|
 |**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
@@ -42,8 +44,6 @@
 |**2022-03-08**|**End-to-End Semi-Supervised Learning for Video Action Detection**|Akash Kumar et.al.|[2203.04251v1](http://arxiv.org/abs/2203.04251v1)|**[link](https://github.com/AKASH2907/End-to-End-Semi-Supervised-Learning-for-Video-Action-Detection)**|
 |**2022-03-07**|**A quantitative assessment of the VO line list: Inaccuracies hamper high-resolution VO detections in exoplanet atmospheres**|S. de Regt et.al.|[2203.03585v1](http://arxiv.org/abs/2203.03585v1)|null|
 |**2022-03-06**|**Blow-up versus global radial solution for free boundary system with nonlinear inhomogeneous gradient and source terms**|Quan Pham Hoang et.al.|[2203.02929v1](http://arxiv.org/abs/2203.02929v1)|null|
-|**2022-03-04**|**MF-Hovernet: An Extension of Hovernet for Colon Nuclei Identification and Counting (CoNiC) Challenge**|Vi Thi-Tuong Vo et.al.|[2203.02161v1](http://arxiv.org/abs/2203.02161v1)|null|
-|**2022-03-03**|**First measurement of the $Z\rightarrow μ^+ μ^-$ angular coefficients in the forward region of $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2203.01602v1](http://arxiv.org/abs/2203.01602v1)|null|
 
 ## Visual Localization
 
