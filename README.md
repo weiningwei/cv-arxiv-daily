@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-19**|**Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems**|Jie Yang et.al.|[2203.10267v1](http://arxiv.org/abs/2203.10267v1)|null|
 |**2022-03-16**|**Any Way You Look At It: Semantic Crossview Localization and Mapping with LiDAR**|Ian D. Miller et.al.|[2203.08925v1](http://arxiv.org/abs/2203.08925v1)|**[link](https://github.com/iandouglas96/cross_view_slam)**|
 |**2022-03-15**|**Neural RF SLAM for unsupervised positioning and mapping with channel state information**|Shreya Kadambi et.al.|[2203.08264v1](http://arxiv.org/abs/2203.08264v1)|null|
 |**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow et.al.|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
@@ -13,7 +14,6 @@
 |**2022-03-10**|**SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**|Jaehoon Choi et.al.|[2203.05332v1](http://arxiv.org/abs/2203.05332v1)|null|
 |**2022-03-08**|**Tune your Place Recognition: Self-Supervised Domain Calibration via Robust SLAM**|Pierre-Yves Lajoie et.al.|[2203.04446v1](http://arxiv.org/abs/2203.04446v1)|null|
 |**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|**[link](https://github.com/520xyxyzq/slam-super-6d)**|
-|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 
 ## VIO
 
@@ -34,16 +34,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**FAIR standards for astronomical data**|Simon O'Toole et.al.|[2203.10710v1](http://arxiv.org/abs/2203.10710v1)|null|
+|**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
+|**2022-03-20**|**Stratigraphic and Isotopic Evolution of the Martian Polar Caps from Paleo-Climate Models**|E. Vos et.al.|[2203.10471v1](http://arxiv.org/abs/2203.10471v1)|null|
+|**2022-03-19**|**Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards**|Ruihua Han et.al.|[2203.10229v1](http://arxiv.org/abs/2203.10229v1)|null|
 |**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
 |**2022-03-17**|**The Effect of Annealing Atmospheres on Structural and Magnetic Properties of Mn-doped \b{eta}-Ga2O3**|Xu Dai et.al.|[2203.09331v1](http://arxiv.org/abs/2203.09331v1)|null|
 |**2022-03-16**|**Meta-Learning of NAS for Few-shot Learning in Medical Image Applications**|Viet-Khoa Vo-Ho et.al.|[2203.08951v1](http://arxiv.org/abs/2203.08951v1)|null|
 |**2022-03-16**|**ABN: Agent-Aware Boundary Networks for Temporal Action Proposal Generation**|Khoa Vo et.al.|[2203.08942v1](http://arxiv.org/abs/2203.08942v1)|**[link](https://github.com/vhvkhoa/TAPG-AgentEnvNetwork)**|
 |**2022-03-16**|**PPCD-GAN: Progressive Pruning and Class-Aware Distillation for Large-Scale Conditional GANs Compression**|Duc Minh Vo et.al.|[2203.08456v1](http://arxiv.org/abs/2203.08456v1)|null|
 |**2022-03-15**|**The strong coupling constant: State of the art and the decade ahead**|D. d'Enterria et.al.|[2203.08271v1](http://arxiv.org/abs/2203.08271v1)|null|
-|**2022-03-15**|**The International Linear Collider: Report to Snowmass 2021**|Alexander Aryshev et.al.|[2203.07622v1](http://arxiv.org/abs/2203.07622v1)|null|
-|**2022-03-14**|**Jets and Jet Substructure at Future Colliders**|Ben Nachman et.al.|[2203.07462v1](http://arxiv.org/abs/2203.07462v1)|null|
-|**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
-|**2022-03-12**|**The Future Circular Collider: a Summary for the US 2021 Snowmass Process**|G. Bernardi et.al.|[2203.06520v1](http://arxiv.org/abs/2203.06520v1)|null|
 
 ## Visual Localization
 
@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
@@ -88,5 +89,4 @@
 |**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
-|**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
 
