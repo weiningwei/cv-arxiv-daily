@@ -38,16 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-22**|**Unified thermodynamic kinetic uncertainty relation**|Van Tuan Vo et.al.|[2203.11501v1](http://arxiv.org/abs/2203.11501v1)|null|
+|**2022-03-22**|**Associating Objects with Scalable Transformers for Video Object Segmentation**|Zongxin Yang et.al.|[2203.11442v1](http://arxiv.org/abs/2203.11442v1)|**[link](https://github.com/z-x-yang/AOT)**|
 |**2022-03-21**|**FAIR standards for astronomical data**|Simon O'Toole et.al.|[2203.10710v1](http://arxiv.org/abs/2203.10710v1)|null|
 |**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
 |**2022-03-20**|**Stratigraphic and Isotopic Evolution of the Martian Polar Caps from Paleo-Climate Models**|E. Vos et.al.|[2203.10471v1](http://arxiv.org/abs/2203.10471v1)|null|
-|**2022-03-19**|**Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards**|Ruihua Han et.al.|[2203.10229v1](http://arxiv.org/abs/2203.10229v1)|null|
+|**2022-03-19**|**Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards**|Ruihua Han et.al.|[2203.10229v1](http://arxiv.org/abs/2203.10229v1)|**[link](https://github.com/hanruihua/rl_rvo_nav)**|
 |**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
 |**2022-03-17**|**The Effect of Annealing Atmospheres on Structural and Magnetic Properties of Mn-doped \b{eta}-Ga2O3**|Xu Dai et.al.|[2203.09331v1](http://arxiv.org/abs/2203.09331v1)|null|
 |**2022-03-16**|**Meta-Learning of NAS for Few-shot Learning in Medical Image Applications**|Viet-Khoa Vo-Ho et.al.|[2203.08951v1](http://arxiv.org/abs/2203.08951v1)|null|
 |**2022-03-16**|**ABN: Agent-Aware Boundary Networks for Temporal Action Proposal Generation**|Khoa Vo et.al.|[2203.08942v1](http://arxiv.org/abs/2203.08942v1)|**[link](https://github.com/vhvkhoa/TAPG-AgentEnvNetwork)**|
-|**2022-03-16**|**PPCD-GAN: Progressive Pruning and Class-Aware Distillation for Large-Scale Conditional GANs Compression**|Duc Minh Vo et.al.|[2203.08456v1](http://arxiv.org/abs/2203.08456v1)|null|
-|**2022-03-15**|**The strong coupling constant: State of the art and the decade ahead**|D. d'Enterria et.al.|[2203.08271v1](http://arxiv.org/abs/2203.08271v1)|null|
 
 ## Visual Localization
 
