@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.24
+## Updated on 2022.03.25
 
 ## SLAM
 
@@ -40,7 +40,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-22**|**Search for Gravitational Waves Associated with Fast Radio Bursts Detected by CHIME/FRB During the LIGO--Virgo Observing Run O3a**|The LIGO Scientific Collaboration et.al.|[2203.12038v1](http://arxiv.org/abs/2203.12038v1)|null|
 |**2022-03-22**|**Unified thermodynamic kinetic uncertainty relation**|Van Tuan Vo et.al.|[2203.11501v1](http://arxiv.org/abs/2203.11501v1)|null|
-|**2022-03-22**|**Associating Objects with Scalable Transformers for Video Object Segmentation**|Zongxin Yang et.al.|[2203.11442v1](http://arxiv.org/abs/2203.11442v1)|**[link](https://github.com/z-x-yang/AOT)**|
+|**2022-03-22**|**Associating Objects with Scalable Transformers for Video Object Segmentation**|Zongxin Yang et.al.|[2203.11442v2](http://arxiv.org/abs/2203.11442v2)|**[link](https://github.com/z-x-yang/AOT)**|
 |**2022-03-21**|**FAIR standards for astronomical data**|Simon O'Toole et.al.|[2203.10710v1](http://arxiv.org/abs/2203.10710v1)|null|
 |**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
 |**2022-03-20**|**Stratigraphic and Isotopic Evolution of the Martian Polar Caps from Paleo-Climate Models**|E. Vos et.al.|[2203.10471v1](http://arxiv.org/abs/2203.10471v1)|null|
