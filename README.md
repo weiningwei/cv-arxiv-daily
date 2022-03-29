@@ -1,4 +1,4 @@
-## Updated on 2022.03.28
+## Updated on 2022.03.29
 
 ## SLAM
 
@@ -39,7 +39,7 @@
 |**2022-03-23**|**Thermally switchable polarization manipulation and diodelike transmission in scalable, resonator-free, mid-infrared metasurfaces with vanadium-dioxide grids**|Andriy E. Serebryannikov et.al.|[2203.12754v1](http://arxiv.org/abs/2203.12754v1)|null|
 |**2022-03-22**|**Search for Gravitational Waves Associated with Fast Radio Bursts Detected by CHIME/FRB During the LIGO--Virgo Observing Run O3a**|The LIGO Scientific Collaboration et.al.|[2203.12038v1](http://arxiv.org/abs/2203.12038v1)|null|
 |**2022-03-22**|**Unified thermodynamic kinetic uncertainty relation**|Van Tuan Vo et.al.|[2203.11501v1](http://arxiv.org/abs/2203.11501v1)|null|
-|**2022-03-22**|**Associating Objects with Scalable Transformers for Video Object Segmentation**|Zongxin Yang et.al.|[2203.11442v2](http://arxiv.org/abs/2203.11442v2)|**[link](https://github.com/z-x-yang/AOT)**|
+|**2022-03-22**|**Associating Objects with Scalable Transformers for Video Object Segmentation**|Zongxin Yang et.al.|[2203.11442v3](http://arxiv.org/abs/2203.11442v3)|**[link](https://github.com/z-x-yang/AOT)**|
 |**2022-03-21**|**FAIR standards for astronomical data**|Simon O'Toole et.al.|[2203.10710v1](http://arxiv.org/abs/2203.10710v1)|null|
 |**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
 |**2022-03-20**|**Stratigraphic and Isotopic Evolution of the Martian Polar Caps from Paleo-Climate Models**|E. Vos et.al.|[2203.10471v1](http://arxiv.org/abs/2203.10471v1)|null|
@@ -64,7 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v1](http://arxiv.org/abs/2203.12745v1)|**[link](https://github.com/tencentarc/umt)**|
+|**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v2](http://arxiv.org/abs/2203.12745v2)|**[link](https://github.com/tencentarc/umt)**|
 |**2022-03-17**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|**[link](https://github.com/jamycheung/matchformer)**|
 |**2022-03-16**|**PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**|R. James Cotton et.al.|[2203.08792v1](http://arxiv.org/abs/2203.08792v1)|**[link](https://github.com/peabody124/posepipeline)**|
 |**2022-03-11**|**DRTAM: Dual Rank-1 Tensor Attention Module**|Hanxing Chi et.al.|[2203.05893v1](http://arxiv.org/abs/2203.05893v1)|null|
