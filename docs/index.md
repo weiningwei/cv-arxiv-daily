@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-29**|**Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**|Mingjun Li et.al.|[2203.15439v1](http://arxiv.org/abs/2203.15439v1)|null|
+|**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
 |**2022-03-28**|**Are High-Resolution Event Cameras Really Needed?**|Daniel Gehrig et.al.|[2203.14672v1](http://arxiv.org/abs/2203.14672v1)|null|
 |**2022-03-25**|**Spectral Measurement Sparsification for Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2203.13897v1](http://arxiv.org/abs/2203.13897v1)|null|
 |**2022-03-25**|**FD-SLAM: 3-D Reconstruction Using Features and Dense Matching**|Xingrui Yang et.al.|[2203.13861v1](http://arxiv.org/abs/2203.13861v1)|null|
@@ -16,8 +18,6 @@ layout: default
 |**2022-03-24**|**Unsupervised Simultaneous Learning for Camera Re-Localization and Depth Estimation from Video**|Shun Taguchi et.al.|[2203.12804v1](http://arxiv.org/abs/2203.12804v1)|null|
 |**2022-03-19**|**Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems**|Jie Yang et.al.|[2203.10267v1](http://arxiv.org/abs/2203.10267v1)|null|
 |**2022-03-16**|**Any Way You Look At It: Semantic Crossview Localization and Mapping with LiDAR**|Ian D. Miller et.al.|[2203.08925v1](http://arxiv.org/abs/2203.08925v1)|**[link](https://github.com/iandouglas96/cross_view_slam)**|
-|**2022-03-15**|**Neural RF SLAM for unsupervised positioning and mapping with channel state information**|Shreya Kadambi et.al.|[2203.08264v1](http://arxiv.org/abs/2203.08264v1)|null|
-|**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow et.al.|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
 
 ## VIO
 
@@ -38,6 +38,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-29**|**In-N-Out Generative Learning for Dense Unsupervised Video Segmentation**|Xiao Pan et.al.|[2203.15312v1](http://arxiv.org/abs/2203.15312v1)|null|
+|**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
+|**2022-03-28**|**Comparing in context: Improving cosine similarity measures with a metric tensor**|Isa M. Apallius de Vos et.al.|[2203.14996v1](http://arxiv.org/abs/2203.14996v1)|null|
 |**2022-03-28**|**NOC-REK: Novel Object Captioning with Retrieved Vocabulary from External Knowledge**|Duc Minh Vo et.al.|[2203.14499v1](http://arxiv.org/abs/2203.14499v1)|null|
 |**2022-03-27**|**Temporal Transductive Inference for Few-Shot Video Object Segmentation**|Mennatullah Siam et.al.|[2203.14308v1](http://arxiv.org/abs/2203.14308v1)|null|
 |**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
@@ -45,14 +48,12 @@ layout: default
 |**2022-03-23**|**Thermally switchable polarization manipulation and diodelike transmission in scalable, resonator-free, mid-infrared metasurfaces with vanadium-dioxide grids**|Andriy E. Serebryannikov et.al.|[2203.12754v1](http://arxiv.org/abs/2203.12754v1)|null|
 |**2022-03-22**|**Search for Gravitational Waves Associated with Fast Radio Bursts Detected by CHIME/FRB During the LIGO--Virgo Observing Run O3a**|The LIGO Scientific Collaboration et.al.|[2203.12038v1](http://arxiv.org/abs/2203.12038v1)|null|
 |**2022-03-22**|**Unified thermodynamic kinetic uncertainty relation**|Van Tuan Vo et.al.|[2203.11501v1](http://arxiv.org/abs/2203.11501v1)|null|
-|**2022-03-22**|**Associating Objects with Scalable Transformers for Video Object Segmentation**|Zongxin Yang et.al.|[2203.11442v3](http://arxiv.org/abs/2203.11442v3)|**[link](https://github.com/z-x-yang/AOT)**|
-|**2022-03-21**|**FAIR standards for astronomical data**|Simon O'Toole et.al.|[2203.10710v1](http://arxiv.org/abs/2203.10710v1)|null|
-|**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
 |**2022-03-24**|**A Simulation Benchmark for Vision-based Autonomous Navigation**|Lauri Suomela et.al.|[2203.13048v1](http://arxiv.org/abs/2203.13048v1)|null|
 |**2022-03-24**|**Is Geometry Enough for Matching in Visual Localization?**|Qunjie Zhou et.al.|[2203.12979v1](http://arxiv.org/abs/2203.12979v1)|null|
 |**2022-03-17**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|**[link](https://github.com/jamycheung/matchformer)**|
@@ -62,12 +63,12 @@ layout: default
 |**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran et.al.|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
 |**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi et.al.|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
 |**2022-02-04**|**CFP-SLAM: A Real-time Visual SLAM Based on Coarse-to-Fine Probability in Dynamic Environments**|Xinggang Hu et.al.|[2202.01938v2](http://arxiv.org/abs/2202.01938v2)|null|
-|**2022-02-03**|**Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**|Andrea Vallone et.al.|[2202.01821v1](http://arxiv.org/abs/2202.01821v1)|null|
 
 ## Keypoint Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-29**|**Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**|David Howard et.al.|[2203.15172v1](http://arxiv.org/abs/2203.15172v1)|null|
 |**2022-03-28**|**REGTR: End-to-end Point Cloud Correspondences with Transformers**|Zi Jian Yew et.al.|[2203.14517v1](http://arxiv.org/abs/2203.14517v1)|**[link](https://github.com/yewzijian/regtr)**|
 |**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v2](http://arxiv.org/abs/2203.12745v2)|**[link](https://github.com/tencentarc/umt)**|
 |**2022-03-17**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|**[link](https://github.com/jamycheung/matchformer)**|
@@ -77,12 +78,12 @@ layout: default
 |**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou et.al.|[2202.04243v2](http://arxiv.org/abs/2202.04243v2)|null|
 |**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
 |**2022-01-16**|**Cross-Centroid Ripple Pattern for Facial Expression Recognition**|Monu Verma et.al.|[2201.05958v1](http://arxiv.org/abs/2201.05958v1)|null|
-|**2022-01-10**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v2](http://arxiv.org/abs/2201.03556v2)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
 
 ## SFM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 |**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
 |**2022-03-23**|**Event-Based Dense Reconstruction Pipeline**|Kun Xiao et.al.|[2203.12270v1](http://arxiv.org/abs/2203.12270v1)|null|
 |**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
@@ -92,5 +93,4 @@ layout: default
 |**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
 |**2022-01-13**|**Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**|Yunpeng Shi et.al.|[2201.04797v1](http://arxiv.org/abs/2201.04797v1)|**[link](https://github.com/yunpeng-shi/fcc)**|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
-|**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
 
