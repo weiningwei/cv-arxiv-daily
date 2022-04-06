@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Learning Video Salient Object Detection Progressively from Unlabeled Videos**|Binwei Xu et.al.|[2204.02008v1](http://arxiv.org/abs/2204.02008v1)|null|
 |**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
 |**2022-03-31**|**Snowmass White Paper: prospects for measurements of the bottom quark mass**|Javier Aparisi et.al.|[2203.16994v1](http://arxiv.org/abs/2203.16994v1)|null|
@@ -43,7 +44,6 @@
 |**2022-03-28**|**NOC-REK: Novel Object Captioning with Retrieved Vocabulary from External Knowledge**|Duc Minh Vo et.al.|[2203.14499v1](http://arxiv.org/abs/2203.14499v1)|null|
 |**2022-03-27**|**Temporal Transductive Inference for Few-Shot Video Object Segmentation**|Mennatullah Siam et.al.|[2203.14308v1](http://arxiv.org/abs/2203.14308v1)|null|
 |**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
-|**2022-03-24**|**A New Virtual Oscillator based Grid-forming Controller with Decoupled Control Over Individual Phases and Improved Performance of Unbalanced Fault Ride-through**|Ritwik Ghosh et.al.|[2203.13136v1](http://arxiv.org/abs/2203.13136v1)|null|
 
 ## Visual Localization
 
