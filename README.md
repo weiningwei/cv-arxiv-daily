@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-08**|**Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**|Debao Huang et.al.|[2204.04145v1](http://arxiv.org/abs/2204.04145v1)|null|
 |**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
 |**2022-04-06**|**Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**|Lukas Bommes et.al.|[2204.02733v1](http://arxiv.org/abs/2204.02733v1)|**[link](https://github.com/lukasbommes/pv-hawk)**|
 |**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu et.al.|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|**[link](https://github.com/amazon-research/small-baseline-camera-tracking)**|
@@ -88,5 +89,4 @@
 |**2022-03-23**|**Event-Based Dense Reconstruction Pipeline**|Kun Xiao et.al.|[2203.12270v1](http://arxiv.org/abs/2203.12270v1)|null|
 |**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
-|**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
 
