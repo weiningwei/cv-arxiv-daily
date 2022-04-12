@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.11
+## Updated on 2022.04.12
 
 ## SLAM
 
@@ -42,7 +42,7 @@ layout: default
 |**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
 |**2022-03-31**|**Snowmass White Paper: prospects for measurements of the bottom quark mass**|Javier Aparisi et.al.|[2203.16994v1](http://arxiv.org/abs/2203.16994v1)|null|
-|**2022-03-29**|**In-N-Out Generative Learning for Dense Unsupervised Video Segmentation**|Xiao Pan et.al.|[2203.15312v1](http://arxiv.org/abs/2203.15312v1)|null|
+|**2022-03-29**|**In-N-Out Generative Learning for Dense Unsupervised Video Segmentation**|Xiao Pan et.al.|[2203.15312v2](http://arxiv.org/abs/2203.15312v2)|null|
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 |**2022-03-28**|**Comparing in context: Improving cosine similarity measures with a metric tensor**|Isa M. Apallius de Vos et.al.|[2203.14996v1](http://arxiv.org/abs/2203.14996v1)|null|
 |**2022-03-28**|**NOC-REK: Novel Object Captioning with Retrieved Vocabulary from External Knowledge**|Duc Minh Vo et.al.|[2203.14499v1](http://arxiv.org/abs/2203.14499v1)|null|
